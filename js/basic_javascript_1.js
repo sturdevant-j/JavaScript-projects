@@ -18,3 +18,9 @@ var X = "I am in a purple frame of mind";
 var X = X.fontcolor("purple");
 document.write(X);
 document.write(3+3);
+// event listener
+// var button = document.getElementsByTagName("button")[0];
+// button.addEventListener("click", function() {
+//     console.log("Click");
+// })
+
